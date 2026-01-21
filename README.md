@@ -1,16 +1,14 @@
-## Hi there 👋
+## Om Barve
+MSC Data Science | University Of Sheffield
 
-<!--
-**Ombarve21/Ombarve21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a MSC Data Science student with a background in Electronics And Telecommunications Engineering. My interests include applied statistics, data analysis, data visualisation and policy analysis in R.
 
-Here are some ideas to get you started:
+### Technical Skills
+- R (tidyverse, ggplot2, broom)
+- Statistical modellind and inference
+- Data Visualisation
+- Reproducible research (Git and GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academic Projects
+- IJC437: Introduction to Data Science - Report
+- IJC445: Data Visualisation - Report
