@@ -5,9 +5,11 @@ I am a MSC Data Science student with a background in Electronics And Telecommuni
 
 ### Technical Skills
 - R (tidyverse, ggplot2, broom)
-- Statistical modellind and inference
-- Data Visualisation
-- Reproducible research (Git and GitHub)
+- Statistical modelling and inference
+- Python
+- Data Analysis
+- Data Visulaisation
+- Front-end Development
 
 ### Academic Projects
 - IJC437: Introduction to Data Science - Report
