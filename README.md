@@ -12,5 +12,5 @@ I am a MSC Data Science student with a background in Electronics And Telecommuni
 - Front-end Development
 
 ### Academic Projects
-- IJC437: Introduction to Data Science - Report
+- IJC437: Rail Recovery Analysis - Report
 - IJC445: Data Visualisation - Report
